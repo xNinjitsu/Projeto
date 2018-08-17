@@ -41,7 +41,7 @@ public class jurossimples extends HttpServlet {
             out.println("<title>Soma</title>");            
             out.println("</head>");
             out.println("<body>");
-            out.println("<h4><a href='index.html'>Voltar</a></h4>");
+            out.println("<h4><a href='Home.php'>Voltar</a></h4>");
             out.println("<h4>M = P x ( 1 + ( i x n ))</h4>");            
             out.println("<form>");
             out.println("Capital inicial: <input type='text' name='P'/>");
